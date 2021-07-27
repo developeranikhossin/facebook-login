@@ -1,0 +1,97 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+.col-6{width: 50%;float: left;padding: 0 15px;}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+.pb-150{padding-bottom: 150px;}
+.pt-150{padding-top: 150px;}
+
+/*form part*/
+
+.anik {
+	padding-top: 70px;
+}
+.anik2 {
+	background: rgb(240, 237, 234);
+	padding: 24px;
+}
+.anik h1 {
+	font-weight: 800;
+	font-size: 50px;
+	color: blue;
+}
+.anik p {
+	font-size: 33px;
+	margin-top: 15px;
+	font-weight: 300;
+}
+.anik2{
+    background: rgb(240, 237, 234);
+}
+.input {
+	font-size: 20px;
+	margin: 10px;
+	padding: 10px 120px;
+}
+.login {
+	margin-top: 10px;
+	background: darkblue;
+	padding: 6px;
+	text-align: center;
+	margin-left: 10px;
+	border-radius: 5px;
+}
+.login a {
+	text-decoration: none;
+	color: white;
+	font-size: 22px;
+}
+
+.forget {
+	text-align: center;
+	padding: 20px;
+}
+.forget a {
+	font-size: 18px;
+    text-decoration: none;
+}
+.account {
+	text-align: center;
+	background: blue;
+	padding: 10px;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+.account a {
+	text-decoration: none;
+	color: white;
+	font-size: 19px;
+	font-weight: 800;
+}
+
+
+.create {
+	padding: 23px;
+	margin-left: 15px;
+}
+.create a {
+	text-decoration: none;
+	color: black;
+	font-size: 19px;
+	font-weight: 800;
+}
+.create p {
+	display: inline-block;
+	font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
